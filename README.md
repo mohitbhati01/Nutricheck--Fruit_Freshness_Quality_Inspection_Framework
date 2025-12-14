@@ -1,1 +1,1 @@
-# Nutricheck--Fruit_Freshness_Quality_Inspection_Framework
+the full working of the site can be checked at https://fruitest.streamlit.app/
